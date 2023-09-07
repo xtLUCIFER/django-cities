@@ -260,7 +260,6 @@ import_opts_all = [
     'city',
     'district',
     'alt_name',
-    'postal_code',
 ]
 
 
